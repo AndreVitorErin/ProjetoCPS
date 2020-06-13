@@ -10,3 +10,5 @@ Alguns dos conhecimentos aplicados:
 * Aplicação de efeitos através da tag w3-hoover
 * Organização de cabeçalho e rodapé
 * aplicação de icones (uso de biblioteca)
+
+projeto publicado: https://andrevitorerin.github.io/ProjetoCPS/
