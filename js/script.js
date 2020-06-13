@@ -1,8 +1,11 @@
-let slideIndex = 1;
-showDivs(slideIndex);
-function plusDivs(n) {
-  showDivs((slideIndex += n));
-}
+window.addEventListener('load', () => {
+  let slideIndex = 1;
+  showDivs(slideIndex);
+  function plusDivs(n) {
+    showDivs((slideIndex += n));
+  }
+});
+
 function showDivs(n) {
   let x = document.getElementsByClassName('slides');
   if (n > x.length) {
